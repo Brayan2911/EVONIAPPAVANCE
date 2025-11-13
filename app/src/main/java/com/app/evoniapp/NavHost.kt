@@ -54,7 +54,6 @@ fun EvoniNavHost(
                 }
             )
         }
-
         // Home
         composable(Route.Home.route) {
             HomeScreen(
@@ -70,4 +69,3 @@ fun EvoniNavHost(
 
     }
 }
-
